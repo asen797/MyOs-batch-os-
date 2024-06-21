@@ -1,6 +1,6 @@
 @echo off
 cls
-echo (c)MyOs Animation studio
+echo (c)MyOs Animation studio(fixes pending)
 
 set /p ln=how many lines:
  
