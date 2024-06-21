@@ -58,14 +58,6 @@ set /p line6=line6:
 set /p line7=line7:
 set /p line8=line8:
 
-if %line2%==finish goto 1l
-if %line3%==finish goto 2l
-if %line4%==finish goto 3l
-if %line5%==finish goto 4l
-if %line6%==finish goto 5l
-if %line7%==finish goto 6l
-if %line8%==finish goto 7l
-
 cls
 set /p timeout=what will be the timeout for the animation(2 is recommended):
 
