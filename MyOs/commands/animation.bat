@@ -1,6 +1,6 @@
 @echo off
 cls
-echo type finish when you are done(doesn't count for line1)
+echo (c)MyOs Animation studio
 
 set /p ln=how many lines:
  
